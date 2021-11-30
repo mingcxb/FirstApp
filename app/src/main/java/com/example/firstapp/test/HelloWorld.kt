@@ -11,15 +11,18 @@ fun main() {
     println(arr[2])
 
     val arr2 = arrayOfNulls<String>(5)
-    arr2[0] = "One";
-    arr2[1] = "Two";
-    arr2[2] = "Three";
-    arr2[3] = "Four";
-    arr2[4] = "five";
+    arr2[0] = "One"
+    arr2[1] = "Two"
+    arr2[2] = "Three"
+    arr2[3] = "Four"
+    arr2[4] = "five"
 
     for (i in arr2) {
         println(i)
     }
+
+
+
 
 
 }
